@@ -11,3 +11,24 @@ For example, if you pushed a commit to the private repository's default branch w
 
 
 You can test our application here : http://moovsimply.herokuapp.com/
+
+Nouveautés
+- Horaires pour la SNCF (horaires prévisionnels)
+- Filtre pour choisir le moyen de transport
+- Fonction Recherche par station avec autocomplétion
+- Action Re-centrage de la carte sur position de l’utilisateur (BUG)
+- Favicon (BUG)
+
+Fonctionnalités implémentées
+- Récupérer tous les moyens de transport public autour de l’utilisateur : affichage sur carte et liste
+- Informations temps réels pour les stations Autolib et Vélib : stations ouvertes/fermées, nombre de véhicules disponibles, nombre de bornes disponibles
+- Géolocalisation d’une station à partir de la liste des stations
+
+Fonctionnalités en cours
+- Horaires pour la RATP (horaires temps réel)
+- Horaires pour la SNCF (horaires temps réel: lignes L et C)
+- Regroupement des points
+
+Fonctionnalités à venir
+- Gestion des détails pour les stations superposées
+- Gestion des favoris
