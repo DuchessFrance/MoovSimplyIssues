@@ -16,6 +16,7 @@ You can test our application here : http://moovsimply.herokuapp.com/
 
 Nouveautés
 - Horaires pour la SNCF (horaires prévisionnels)
+- Horaires pour la RATP (horaires temps réel métro)
 - Filtre pour choisir le moyen de transport
 - Fonction Recherche par station avec autocomplétion
 - Action Re-centrage de la carte sur position de l’utilisateur (BUG)
