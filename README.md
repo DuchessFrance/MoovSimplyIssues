@@ -12,6 +12,8 @@ For example, if you pushed a commit to the private repository's default branch w
 
 You can test our application here : http://moovsimply.herokuapp.com/
 
+-------------------------------------------------------------------------------
+
 Nouveautés
 - Horaires pour la SNCF (horaires prévisionnels)
 - Filtre pour choisir le moyen de transport
