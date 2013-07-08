@@ -10,7 +10,7 @@ For example, if you pushed a commit to the private repository's default branch w
 
 
 
-You can test our application here : http://moovsimply.herokuapp.com/
+You can test our application here : www.moovsimply.fr
 
 -------------------------------------------------------------------------------
 
