@@ -15,23 +15,26 @@ You can test our application here : http://moovsimply.herokuapp.com/
 -------------------------------------------------------------------------------
 
 Nouveautés
-- Horaires pour la SNCF (horaires prévisionnels)
-- Horaires pour la RATP (horaires temps réel métro)
-- Fonction Recherche par station avec autocomplétion
-- Filtre pour choisir le moyen de transport (issue #10)
-- Action Re-centrage de la carte sur position de l’utilisateur (issue #17)
-- Favicon (issue #7)
+- Horaires pour la SNCF (horaires temps réel: lignes L et C) 
+- Gestion des favoris 
+- gzippage des ressources (performances, chargement allégé)
+
+issues corrigées :#31, #32, #26, #27, #6, #25
 
 Fonctionnalités implémentées
-- Récupérer tous les moyens de transport public autour de l’utilisateur : affichage sur carte et liste
+-Récupérer tous les moyens de transport public autour de l’utilisateur : affichage sur carte et liste
 - Informations temps réels pour les stations Autolib et Vélib : stations ouvertes/fermées, nombre de véhicules disponibles, nombre de bornes disponibles
 - Géolocalisation d’une station à partir de la liste des stations
+- Horaires pour la SNCF (horaires prévisionnels)
+- Horaires pour la RATP (horaires temps réel métro)
+- Filtre pour choisir le moyen de transport
+- Fonction Recherche par station avec autocomplétion
+- Action Re-centrage de la carte sur position de l’utilisateur
+- Favicon
 
 Fonctionnalités en cours
-- Horaires pour la RATP (horaires temps réel autre que métro)
-- Horaires pour la SNCF (horaires temps réel: lignes L et C)
-- Regroupement des stations proches
-
-Fonctionnalités à venir
+- Horaires pour la RATP (temps prévisionnel)
 - Gestion des détails pour les stations superposées
-- Gestion des favoris
+- sens de direction pour la SNCF (ligne L et C)
+
+
